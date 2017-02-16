@@ -6,4 +6,7 @@ body {
 }
 #answer{
   display: none;
-} 
+  padding-top: 10px;
+  font-family: monospace;
+  font-size: 20px;
+}
