@@ -13,5 +13,6 @@ $(document).ready(function(){
     var result = convert(cupsInput);
     // console.log(result);
     $(".solution").text(result);
+    $("#answer").show();
   });
 });
